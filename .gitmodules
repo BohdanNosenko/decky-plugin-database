@@ -368,3 +368,6 @@
 [submodule "plugins/Deck-Shelves"]
 	path = plugins/Deck-Shelves
 	url = https://github.com/santojon/Deck-Shelves.git
+[submodule "plugins/non-steam-fullscreen"]
+	path = plugins/non-steam-fullscreen
+	url = https://github.com/BohdanNosenko/non-steam-fullscreen-decky-plugin.git
